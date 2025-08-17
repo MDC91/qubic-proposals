@@ -36,6 +36,7 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Networking & Matchmaking**             | More than **82% of attendees are C-level executives**. Formats include 1:1 business meetings, Speakers & Investors’ Evening, after-party, side events, and AI-powered B2B matchmaking.                                                       |
 | **Startup Support & Innovation Formats** | **Startup Award** with more than USD 8 million in prizes and investments in 2024. Additionally: hackathons, innovation formats, and live challenges integrating university and developer talent.                                             |
 | **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
+
 </br></br>
 ### <ins>3. Importance for Qubic and the DACH Region</ins>
 
