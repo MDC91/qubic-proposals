@@ -42,7 +42,7 @@ Following the Startup Award or Hackathon allows Qubic to scout talents for joint
 
 <ins>**Regional Impact:**</ins>\
 Through opportunities to collaborate with IHK and other institutions, Qubic could actively contribute to the digital transformation in the Ruhr area – with a focus on sustainable business models and Web3 integration into the “old economy.”
-
+</br></br>
 ## Expenses
 | Category	        | Community Lead	   | Amount (Euro)	| in Dollar |
 |-------------------|--------------------|----------------|-----------|
