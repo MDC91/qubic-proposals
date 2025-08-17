@@ -4,8 +4,8 @@
 
 ## Abstract
 Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity to gain visibility at one of Europe’s leading Web3 and AI business platforms. The event brings together over 200 top international speakers and more than 80% C-level participants, ensuring direct access to key decision-makers, investors, and industry leaders. For Qubic, this is a chance to explore strategic partnerships gain visibility for investors. The mix of keynotes, workshops, and hands-on innovation formats such as the Startup Award and hackathons creates a fertile ground for collaboration and talent acquisition. By participating, Qubic not only gains exposure but also has the possibility to acquire contacts to important contributors driving digital transformation in the German-speaking market.
-</br></br>
 <hr style="border:2px solid gray">
+</br></br>
 
 ## CCF Funding Proposal
 <ins>**Proposer:**<ins> Community Leads of DACH-region MartyMcCrypto and MDC
@@ -17,6 +17,7 @@ of DACH-region community leads MartyMcCrypto and MDC at Web3 Conf3rence in Dortm
 > Option 0: No, don't send requested amount\
 > Option 1: Yes, send xxx B Qubic to fund participation
 <hr style="border:2px solid gray">
+</br></br>
 
 ## Introduction
 ### <ins>1. Why CONF3RENCE is Relevant</ins>
