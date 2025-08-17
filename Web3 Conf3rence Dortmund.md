@@ -2,12 +2,12 @@
 <img width="1500" height="500" alt="1500-x-500-1" src="https://github.com/user-attachments/assets/f37fb8a8-be76-4f8c-bdac-3c55a59c83a3" />
 </br></br>
 
-## Abstract
+## 📜Abstract
 Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity to gain visibility at one of Europe’s leading Web3 and AI business platforms. The event brings together over 200 top international speakers and more than 80% C-level participants, ensuring direct access to key decision-makers, investors, and industry leaders. For Qubic, this is a chance to explore strategic partnerships gain visibility for investors. The mix of keynotes, workshops, and hands-on innovation formats such as the Startup Award and hackathons creates a fertile ground for collaboration and talent acquisition. By participating, Qubic not only gains exposure but also has the possibility to acquire contacts to important contributors driving digital transformation in the German-speaking market.
 <hr style="border:2px solid gray">
 </br></br>
 
-## CCF Funding Proposal
+## 📌CCF Funding Proposal
 <ins>**Proposer:**</ins> Community Leads of DACH-region MartyMcCrypto and MDC
 
 Send xxxB Qubic (2500 USD at xxxx) to wallet address `xxxxxxxxxx` to fund participation\
@@ -20,7 +20,7 @@ of DACH-region community leads MartyMcCrypto and MDC at Web3 Conf3rence in Dortm
 <hr style="border:2px solid gray">
 </br></br>
 
-## Introduction
+## 📑Introduction
 ### <ins>1. Why CONF3RENCE is Relevant</ins>
 CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
 It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship event both regionally and internationally.
@@ -37,7 +37,7 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Startup Support & Innovation Formats** | **Startup Award** with more than USD 8 million in prizes and investments in 2024. Additionally: hackathons, innovation formats, and live challenges integrating university and developer talent.                                             |
 | **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
 
-</br></br>
+
 ### <ins>3. Importance for Qubic and the DACH Region</ins>
 
 <ins>**Strategic Visibility:**</ins>\
@@ -64,8 +64,9 @@ Through opportunities to collaborate with IHK and other institutions, Qubic coul
 to the digital transformation in the Ruhr area – with a focus on sustainable business models and Web3 integration into the “old economy.”
 </br></br>
 <hr style="border:2px solid gray">
+</br></br>
 
-## Expenses
+## 💵Expenses
 | Category	               | Community Lead	      | Amount (Euro)	| in Dollar     |
 |--------------------------|----------------------|---------------|---------------|
 | 2-day VIP Ticket	       | MartyMcCrypto, MDC   | 998,00 € 	    | ~ $1170       |
