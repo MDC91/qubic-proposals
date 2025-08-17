@@ -14,7 +14,8 @@ Send xxxB Qubic (2500 USD at xxxx) to wallet address 'xxxxxxxxxx' to fund partic
 of DACH-region community leads MartyMcCrypto and MDC at Web3 Conf3rence in Dortmund on 3-4th September 2025.
 
 <ins>**Availabe options:**</ins>
-> Option 0: No, don't send requested amount\
+> Option 0: No, don't send requested amount
+
 > Option 1: Yes, send xxx B Qubic to fund participation
 <hr style="border:2px solid gray">
 </br></br>
