@@ -44,15 +44,15 @@ Following the Startup Award or Hackathon allows Qubic to scout talents for joint
 Through opportunities to collaborate with IHK and other institutions, Qubic could actively contribute to the digital transformation in the Ruhr area – with a focus on sustainable business models and Web3 integration into the “old economy.”
 </br></br>
 ## Expenses
-| Category	            | Community Lead	     | Amount (Euro)	| in Dollar |
-|-----------------------|----------------------|----------------|-----------|
-| 2-day VIP Ticket	    | MartyMcCrypto, MDC   | 998,00 € 	    | ~ $1170   |
-|Transportation	        | MartyMcCrypto	       | 150,00 € 	    | ~ $175    |
-|Hotel (3 nights)       | MartyMcCrypto	       | 350,00 € 	    | ~ $410    |
-|Compensation (2 days)	| MDC	                 | 400,00 € 	    | ~ $470    |
-|Expenses (2 days)\ (food, drinks, taxi etc.)	    | MartyMcCrypto, MDC   | 200,00 € 	    | ~ $235    |
-|			                  |                      |                |           |
-|Total		              |                      | 2.098,00 € 	  | ~ $2455   |
+| Category	               | Community Lead	      | Amount (Euro)	| in Dollar     |
+|--------------------------|----------------------|---------------|---------------|
+| 2-day VIP Ticket	       | MartyMcCrypto, MDC   | 998,00 € 	    | ~ $1170       |
+|Transportation	           | MartyMcCrypto	      | 150,00 € 	    | ~ $175        |
+|Hotel (3 nights)          | MartyMcCrypto	      | 350,00 € 	    | ~ $410        |
+|Compensation (2 days)	   | MDC	                | 400,00 € 	    | ~ $470        |
+|Daily expenses (2 days)	 | MartyMcCrypto, MDC   | 200,00 € 	    | ~ $235        |
+|			                     |                      |               |               |
+|Total		                 |                      | 2.098,00 € 	  | ~ $2455       |
 
 
 
