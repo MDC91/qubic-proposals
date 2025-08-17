@@ -22,7 +22,7 @@ of DACH-region community leads MartyMcCrypto and MDC at [Web3 Conf3rence](https:
 
 ## 📑Rationale
 ### <ins>1. Why CONF3RENCE is Relevant</ins>
-CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
+CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park (Westfalenstadion) in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
 It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship event both regionally and internationally.
 </br></br>
 
