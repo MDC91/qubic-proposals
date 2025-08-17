@@ -8,6 +8,7 @@ Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity t
 CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
 It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship event both regionally and internationally.
 </br></br>
+</br></br>
 <ins>**2. Highlights and Unique Selling Points**</ins>
 
 | Feature                                  | Details                                                                                                                                                                                                                                      |
@@ -18,4 +19,18 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Networking & Matchmaking**             | More than **82% of attendees are C-level executives**. Formats include 1:1 business meetings, Speakers & Investors’ Evening, after-party, side events, and AI-powered B2B matchmaking.                                                       |
 | **Startup Support & Innovation Formats** | **Startup Award** with more than USD 8 million in prizes and investments in 2024. Additionally: hackathons, innovation formats, and live challenges integrating university and developer talent.                                             |
 | **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
+</br></br>
+</br></br>
+<ins>**3. Importance for Qubic and the DACH Region**</ins>
 
+Strategic Visibility: As Community Lead, Qubic gains direct access to a high-profile network of entrepreneurs, investors, and decision-makers (especially at C-level).
+
+Positioning in the DACH Region: The conference is the leading event in the German-speaking area and serves as a central stage to position Qubic as a key player in the Web3 space.
+
+Practical Inspiration: The combination of keynotes, workshops, and real-world use cases provides valuable impulses for applying Qubic solutions – e.g., in tokenization, digital identity, or DeFi models.
+
+Community-Building & Collaboration: Networking formats with investors, startups, and tech partners open up cooperation opportunities – for pilot projects, integrative use cases, or regional expansion.
+
+Innovation Support: Participation in the Startup Award or Hackathon allows Qubic to showcase its own projects or attract talent for joint development.
+
+Regional Impact: Through collaboration with IHK and other institutions, Qubic can actively contribute to the digital transformation in the Ruhr area – with a focus on digital identity, sustainable business models, and Web3 integration into the “old economy.”
