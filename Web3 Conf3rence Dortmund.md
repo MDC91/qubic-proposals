@@ -70,12 +70,11 @@ to the digital transformation in the Ruhr area – with a focus on sustainable b
 | Category	               | Community Lead	      | Amount (Euro)	| in Dollar     |
 |--------------------------|----------------------|---------------|---------------|
 | 2-day VIP Ticket	       | MartyMcCrypto, MDC   | 998,00 € 	    | ~ $1170       |
-|Transportation	           | MartyMcCrypto	      | 150,00 € 	    | ~ $175        |
-|Hotel (3 nights)          | MartyMcCrypto	      | 350,00 € 	    | ~ $410        |
-|Compensation (2 days)	   | MDC	                | 400,00 € 	    | ~ $470        |
-|Daily expenses (2 days)	 | MartyMcCrypto, MDC   | 200,00 € 	    | ~ $235        |
+| Transportation	         | MartyMcCrypto	      | 150,00 € 	    | ~ $175        |
+| Hotel (3 nights)         | MartyMcCrypto, MDC	  | 700,00 € 	    | ~ $820        |
+| Daily expenses (2 days)	 | MartyMcCrypto, MDC   | 200,00 € 	    | ~ $235        |
 |			                     |                      |               |               |
-|Total		                 |                      | 2.098,00 € 	  | ~ $2455       |
+| Total		                 |                      | 2.098,00 € 	  | ~ $2400       |
 
 
 
