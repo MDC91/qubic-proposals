@@ -7,6 +7,16 @@ Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity t
 </br></br>
 <hr style="border:2px solid gray">
 
+## CCF Funding Proposal
+Proposer: Community Leads of DACH-region MartyMcCrypto and MDC
+
+Send xxxB Qubic (2500 USD at xxxx) to wallet address xxxxxxxxxx to fund participation\
+of DACH-region community leads MartyMcCrypto and MDC at Web3 Conf3rence in Dortmund on 3-4th September 2025.
+
+<ins>**Availabe options:**</ins>
+> Option 0: No, don't send requested amount
+> Option 1: Yes, send xxx B Qubic to fund participation
+
 ## Introduction
 ### <ins>1. Why CONF3RENCE is Relevant</ins>
 CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
