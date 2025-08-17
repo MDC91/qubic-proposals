@@ -10,7 +10,7 @@ Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity t
 ## CCF Funding Proposal
 <ins>**Proposer:**</ins> Community Leads of DACH-region MartyMcCrypto and MDC
 
-Send xxxB Qubic (2500 USD at xxxx) to wallet address 'xxxxxxxxxx' to fund participation\
+Send xxxB Qubic (2500 USD at xxxx) to wallet address `xxxxxxxxxx` to fund participation\
 of DACH-region community leads MartyMcCrypto and MDC at Web3 Conf3rence in Dortmund on 3-4th September 2025.
 
 <ins>**Availabe options:**</ins>
@@ -37,7 +37,7 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Startup Support & Innovation Formats** | **Startup Award** with more than USD 8 million in prizes and investments in 2024. Additionally: hackathons, innovation formats, and live challenges integrating university and developer talent.                                             |
 | **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
 
-
+</br></br>
 ### <ins>3. Importance for Qubic and the DACH Region</ins>
 
 <ins>**Strategic Visibility:**</ins>\
