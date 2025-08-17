@@ -73,8 +73,9 @@ to the digital transformation in the Ruhr area – with a focus on sustainable b
 | Transportation	         | MartyMcCrypto	      | 150,00 € 	    | ~ $175        |
 | Hotel (3 nights)         | MartyMcCrypto, MDC	  | 700,00 € 	    | ~ $820        |
 | Daily expenses (2 days)	 | MartyMcCrypto, MDC   | 200,00 € 	    | ~ $235        |
+| Shirts (printed)			   | MartyMcCrypto, MDC   |  80,00 €      | ~ $95         |
 |			                     |                      |               |               |
-| Total		                 |                      | 2.098,00 € 	  | ~ $2400       |
+| Total		                 |                      | 2.128,00 € 	  | ~ $2500       |
 
 
 
