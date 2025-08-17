@@ -38,6 +38,7 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
 
 </br>
+
 ### <ins>3. Importance for Qubic and the DACH Region</ins>
 
 <ins>**Strategic Visibility:**</ins>\
