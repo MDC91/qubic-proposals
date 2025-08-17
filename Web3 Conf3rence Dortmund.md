@@ -10,7 +10,7 @@ Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity t
 ## 📌CCF Funding Proposal
 <ins>**Proposer:**</ins> Community Leads of DACH-region MartyMcCrypto and MDC
 
-Send xxxB Qubic (2500 USD at xxxx) to wallet address `xxxxxxxxxx` to fund participation\
+Send xxxB Qubic (2650 USD at xxxx) to wallet address `xxxxxxxxxx` to fund participation\
 of DACH-region community leads MartyMcCrypto and MDC at [Web3 Conf3rence](https://www.conf3rence.com) in Dortmund on 3-4th September 2025.
 
 <ins>**Availabe options:**</ins>
@@ -75,8 +75,9 @@ to the digital transformation in the Ruhr area – with a focus on sustainable b
 | Hotel (3 nights)         | MartyMcCrypto, MDC	  | 700,00 € 	    | ~ $820        |
 | Daily expenses (2 days)	 | MartyMcCrypto, MDC   | 200,00 € 	    | ~ $235        |
 | Shirts (printed)			   | MartyMcCrypto, MDC   |  80,00 €      | ~ $95         |
+|	Issue handling		       |                      | 100,00 €      | ~ $175        |
 |			                     |                      |               |               |
-| Total		                 |                      | 2.128,00 € 	  | ~ $2500       |
+| Total		                 |                      | 2.228,00 € 	  | ~ $2610       |
 
 
 
