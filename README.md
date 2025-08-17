@@ -9,7 +9,7 @@ CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park i
 It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship event both regionally and internationally.
 </br></br>
 </br></br>
-<ins>**2. Highlights and Unique Selling Points**</ins>
+### <ins>2. Highlights and Unique Selling Points</ins>
 
 | Feature                                  | Details                                                                                                                                                                                                                                      |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,22 +21,22 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
 
 </br></br>
-<ins>**3. Importance for Qubic and the DACH Region**</ins>
+### <ins>3. Importance for Qubic and the DACH Region</ins>
 
-<ins>Strategic Visibility:</ins>
+<ins>**Strategic Visibility:**</ins>
 As Community Leads, Qubic gains direct access to a high-profile network of entrepreneurs, investors, and decision-makers (especially at C-level).
 
-<ins>Positioning in the DACH Region:</ins>
+<ins>**Positioning in the DACH Region:**</ins>
 The conference is the leading event in the German-speaking area and serves as a central stage to position Qubic as a key player in the Web3/Crypto space.
 
-<ins>Practical Inspiration:</ins>
+<ins>**Practical Inspiration:**</ins>
 The combination of keynotes, workshops, and real-world use cases provides valuable impulses for applying Qubic solutions.
 
-<ins>Community-Building & Collaboration:</ins>
+<ins>**Community-Building & Collaboration:**</ins>
 Networking formats with investors, startups, and tech partners open up cooperation opportunities – for pilot projects, integrative use cases, or regional expansion.
 
-<ins>Innovation Support:</ins>
+<ins>**Innovation Support:**</ins>
 Following the Startup Award or Hackathon allows Qubic to scout talents for joint development.
 
-<ins>Regional Impact:</ins>
+<ins>**Regional Impact:**</ins>
 Through opportunities to collaborate with IHK and other institutions, Qubic could actively contribute to the digital transformation in the Ruhr area – with a focus on sustainable business models and Web3 integration into the “old economy.”
