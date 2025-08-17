@@ -1,6 +1,7 @@
 # Web3 Conf3rence Dortmund
 <img width="1500" height="500" alt="1500-x-500-1" src="https://github.com/user-attachments/assets/f37fb8a8-be76-4f8c-bdac-3c55a59c83a3" />
 </br></br>
+</br></br>
 ## Abstract
 Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity to gain visibility at one of Europe’s leading Web3 and AI business platforms. The event brings together over 200 top international speakers and more than 80% C-level participants, ensuring direct access to key decision-makers, investors, and industry leaders. For Qubic, this is a chance to explore strategic partnerships gain visibility for investors. The mix of keynotes, workshops, and hands-on innovation formats such as the Startup Award and hackathons creates a fertile ground for collaboration and talent acquisition. By participating, Qubic not only gains exposure but also has the possibility to acquire contacts to important contributors driving digital transformation in the German-speaking market.
 </br></br>
