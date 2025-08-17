@@ -8,7 +8,7 @@ Participation in CONF3RENCE 2025 will provide Qubic with an unique opportunity t
 </br></br>
 
 ## CCF Funding Proposal
-<ins>**Proposer:**<ins> Community Leads of DACH-region MartyMcCrypto and MDC
+<ins>**Proposer:**</ins> Community Leads of DACH-region MartyMcCrypto and MDC
 
 Send xxxB Qubic (2500 USD at xxxx) to wallet address 'xxxxxxxxxx' to fund participation\
 of DACH-region community leads MartyMcCrypto and MDC at Web3 Conf3rence in Dortmund on 3-4th September 2025.
