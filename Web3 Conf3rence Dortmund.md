@@ -22,7 +22,7 @@ of DACH-region community leads MartyMcCrypto and MDC at [Web3 Conf3rence](https:
 
 ## 📑Rationale
 ### <ins>1. Why CONF3RENCE is Relevant</ins>
-CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park (Westfalenstadion) in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
+CONF3RENCE 2025 will take place on September 3–4, 2025, at Signal Iduna Park (<ins>**Westfalenstadion**</ins>) in Dortmund and has established itself as one of the most significant B2B platforms for Web3, AI, blockchain, and digital transformation in Europe.
 It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship event both regionally and internationally.
 </br></br>
 
@@ -35,7 +35,7 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 | **Industry Crossroads**                  | Bridges between emerging technologies and traditional industries – under the motto *“Where Innovation meets Industry”*, with a strong focus on Web3, AI, and Metaverse applications in real-world business.                                  |
 | **Networking & Matchmaking**             | More than **82% of attendees are C-level executives**. Formats include 1:1 business meetings, Speakers & Investors’ Evening, after-party, side events, and AI-powered B2B matchmaking.                                                       |
 | **Startup Support & Innovation Formats** | **Startup Award** with more than USD 8 million in prizes and investments in 2024. Additionally: hackathons, innovation formats, and live challenges integrating university and developer talent.                                             |
-| **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>(Westfalenstadion)</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
+| **Infrastructure & Visibility**          | Hosted in Germany’s largest stadium – **Signal Iduna Park** <ins>**(Westfalenstadion)**</ins> – giving the conference symbolic impact and visibility. An official partnership with the **Chamber of Industry and Commerce Dortmund (IHK)** underlines its regional importance. |
 
 </br>
 
