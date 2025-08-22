@@ -78,5 +78,5 @@ to the digital transformation in the Ruhr area – with a focus on sustainable b
 |			                     |                |               |
 | Total		                 | 1.099,00 € 	  | ~ $1275       |
 
-
+Unused expenses will be transfered to the DACH account to strenghten the community.
 
