@@ -16,7 +16,7 @@ of DACH-region community lead MDC at [Web3 Conf3rence](https://www.conf3rence.co
 <ins>**Availabe options:**</ins>
 > Option 0: No, don't send requested amount
 
-> Option 1: Yes, send xxx B Qubic to fund participation
+> Option 1: Yes, send 510M Qubic to fund participation
 <hr style="border:2px solid gray">
 
 
