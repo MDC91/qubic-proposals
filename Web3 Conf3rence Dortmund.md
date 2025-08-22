@@ -1,4 +1,4 @@
-# Web3 Conf3rence Dortmund
+# Web3 Conf3rence Dortmund (CCF proposal)
 <img width="1500" height="500" alt="1500-x-500-1" src="https://github.com/user-attachments/assets/f37fb8a8-be76-4f8c-bdac-3c55a59c83a3" />
 </br></br>
 
