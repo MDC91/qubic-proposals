@@ -42,12 +42,12 @@ It is part of the Digital Week Dortmund (DIWODO) and is regarded as a flagship e
 ### <ins>3. Importance for Qubic and the DACH Region</ins>
 
 <ins>**Strategic Visibility:**</ins>\
-As Community Leads, Qubic gains direct access to a high-profile network of entrepreneurs,\
+As a Community Lead, Qubic gains direct access to a high-profile network of entrepreneurs,\
 investors, and decision-makers (especially at C-level).
 
 <ins>**Positioning in the DACH Region:**</ins>\
-The conference is the leading event in the German-speaking area and serves\
-as a central stage to position Qubic as a key player in the Web3/Crypto space.
+The conference is one of the most relevant Web3 events in the German-speaking region\
+and offers Qubic valuable opportunities to connect with key stakeholders and strengthen its visibility.
 
 <ins>**Practical Inspiration:**</ins>\
 The combination of keynotes, workshops, and real-world use cases provides\
@@ -61,7 +61,7 @@ for pilot projects, integrative use cases, or regional expansion.
 Following the Startup Award or Hackathon allows Qubic to scout talents for joint development.
 
 <ins>**Regional Impact:**</ins>\
-Through opportunities to collaborate with IHK and other institutions, Qubic could actively contribute\
+Through opportunities to get in contact with IHK and other institutions, Qubic could actively contribute\
 to the digital transformation in the Ruhr area – with a focus on sustainable business models and Web3 integration into the “old economy.”
 </br></br>
 <hr style="border:2px solid gray">
