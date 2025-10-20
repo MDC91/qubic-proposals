@@ -1,4 +1,6 @@
-# 🚀 Qubic Proposal Viewer: Breaking Language Barriers in Qubic Governance
+# 🌍 Qubic Proposal Viewer
+### *Making Governance Accessible in Every Language*
+---
 
 **📋 Proposal Type:** Incubation Program  
 **⏱️ Expected Duration:** 3 months  
