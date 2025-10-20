@@ -187,7 +187,7 @@ As a dedicated Qubic community member and DACH region community lead, I have bro
 ---  
 <div align="center">
 
-**🤝 A Project for the Qubic Community**  
+**🌍 A Project for the Qubic Community**  
 *Making proposals accessible to everyone, in every language*
 
 </div>
