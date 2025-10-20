@@ -3,7 +3,7 @@
 **📋 Proposal Type:** Incubation Program  
 **⏱️ Expected Duration:** 3 months  
 **💰 Total Budget:** 9.427€ ($10.370)  
-**👥 Team:** [Your Name]  
+**👥 Team:** MDC
 **📂 Category:** Community Tools  
 
 ## 📝 Abstract
@@ -109,22 +109,6 @@ gantt
 - `█` Active development
 - `─` Phase boundaries  
 - `│` Week markers
-
-**Task Duration:**
-- React Setup: Weeks 1-2 (2 weeks)
-- Translations: Weeks 2-4 (3 weeks)
-- Live Voting: Weeks 3-4 (2 weeks)
-- Historical Data: Weeks 5-7 (3 weeks)
-- Search & Filter: Weeks 7-8 (2 weeks)
-- Computor Analytics: Weeks 7-9 (3 weeks)
-- Multilingual UI: Weeks 9-10 (2 weeks)
-- Community Testing: Weeks 9-11 (3 weeks)
-- Final Launch: Weeks 11-12 (2 weeks)
-
-**Milestone Deliverables:**
-- **Week 4**: Complete translations + live voting available
-- **Week 8**: Historical archive + enhanced features
-- **Week 12**: Production-ready platform launch
 
 ## 🗓️ Detailed Timeline
 **Total Duration:** 3 months
