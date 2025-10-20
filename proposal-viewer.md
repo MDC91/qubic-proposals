@@ -65,7 +65,7 @@ The platform will be built on a modern web stack with:
 | **Infrastructure** | 165€ | $183 | Render.com (12 months) |
 | &nbsp;&nbsp;Web Service | 75€ | $83 | Starter instance |
 | &nbsp;&nbsp;PostgreSQL Database | 75€ | $83 | Essential plan |
-| &nbsp;&nbsp;Custom Domain | 15€ | $17 | qubic-viewer.org |
+| &nbsp;&nbsp;Custom Domain | 15€ | $17 | Custom Domain |
 | **API & Services** | 5€ | $6 | DeepSeek Translation API |
 | **Contingency (10%)** | 857€ | $943 | Buffer for unforeseen costs |
 | **TOTAL** | **9.427€** | **$10.370** | |
