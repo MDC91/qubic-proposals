@@ -3,7 +3,7 @@
 **📋 Proposal Type:** Incubation Program  
 **⏱️ Expected Duration:** 3 months  
 **💰 Total Budget:** 9.427€ ($10.370)  
-**👥 Team:** MDC
+**👥 Team:** MDC  
 **📂 Category:** Community Tools  
 
 ## 📝 Abstract
