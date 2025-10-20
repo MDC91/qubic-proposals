@@ -16,7 +16,7 @@ The Qubic network faces governance challenges that affect community participatio
 
 2. **📚 Limited Historical Access**: While current proposals are available on the official website for 10 epochs, older proposals become inaccessible, making it difficult to track long-term decision patterns and learn from past governance.
 
-3. **🗳️ Limited Voting Visibility**: Computor voting patterns and real-time proposal status are not easily visible, making it challenging for the community to understand voting trends and current proposal outcomes.
+3. **🗳️ Limited Voting Visibility**: Computor voting patterns are not easily visible, making it challenging for the community to understand voting trends and current proposal outcomes.
 
 ## 🛠️ Solution
 The Qubic Proposal Viewer is a comprehensive web platform that solves these issues through:
