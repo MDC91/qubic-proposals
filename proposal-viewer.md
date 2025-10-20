@@ -1,6 +1,9 @@
+<div align="center">
+
 # 🌍 Qubic Proposal Viewer
 ### *Making Governance Accessible in Every Language*
 ---
+</div>
 
 **📋 Proposal Type:** Incubation Program  
 **⏱️ Expected Duration:** 3 months  
