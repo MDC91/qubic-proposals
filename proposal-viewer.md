@@ -183,3 +183,10 @@ gantt
 
 ## 👤 About the Author
 As a dedicated Qubic community member and DACH region community lead, I have broad experience with Qubic's ecosystem and have demonstrated commitment to building community-focused solutions. This project represents my ongoing effort to create a more accessible and transparent governance environment for all Qubic participants worldwide.
+
+<div align="center">
+
+**🤝 A Project for the Qubic Community**  
+*Making proposals accessible to everyone, in every language*
+
+</div>
