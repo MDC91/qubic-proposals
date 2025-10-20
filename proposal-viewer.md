@@ -58,7 +58,7 @@ This project builds upon the **Qubic Proposal Bot**, a community tool I develope
 
 The bot has been serving the community voluntarily, processing proposals and making governance information accessible across language barriers. The Qubic Proposal Viewer web platform will expand on this foundation, adding full proposal translations, comprehensive historical archives, and enhanced voting analytics.
 
-For detailed information about the bot's features, setup instructions, and source code, visit the [GitHub Repository](https://github.com/MDC91/Qubic-Proposal-Bot).
+For detailed information about the bot's features and setup instructions, visit the [GitHub Repository](https://github.com/MDC91/Qubic-Proposal-Bot).
 
 ## 🚀 Innovative Approach
 - **Extended Historical Access**: Preserves Qubic governance history beyond current limits
@@ -177,4 +177,4 @@ gantt
 - **Transparent Decision Process**: Clear understanding of how governance decisions unfold
 
 ## 👤 About the Author
-As a dedicated Qubic community member and DACH region community lead, I have broad experience with Qubic's governance ecosystem and have demonstrated commitment to building community-focused solutions. This project represents my ongoing effort to create a more accessible and transparent governance environment for all Qubic participants worldwide.
+As a dedicated Qubic community member and DACH region community lead, I have broad experience with Qubic's ecosystem and have demonstrated commitment to building community-focused solutions. This project represents my ongoing effort to create a more accessible and transparent governance environment for all Qubic participants worldwide.
