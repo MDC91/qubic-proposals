@@ -46,7 +46,19 @@ The platform will be built on a modern web stack with:
 - **Real-time Data Integration**: Live feeds from Qubic voting systems
 - **Advanced Search**: Fast, relevant search across all historical data
 
-*Note: This project builds upon existing community-developed infrastructure for proposal monitoring, adapting and expanding it for web accessibility.*
+## 🤖 Existing Proposal Bot Foundation
+
+This project builds upon the **Qubic Proposal Bot**, a community tool I developed and maintain that currently provides:
+
+- **Real-time Proposal Monitoring**: Automatically detects new Qubic proposals
+- **AI-Powered Summaries**: Generates concise summaries using DeepSeek AI
+- **Multi-Platform Support**: Operates simultaneously on Discord and Telegram
+- **13 Language Support**: Delivers summaries in German, English, French, Spanish, Italian, Portuguese, Russian, Japanese, Chinese, Korean, Arabic, Turkish, and Vietnamese
+- **Automatic Voting Results**: Posts epoch voting outcomes every Wednesday
+
+The bot has been serving the community voluntarily, processing proposals and making governance information accessible across language barriers. The Qubic Proposal Viewer web platform will expand on this foundation, adding full proposal translations, comprehensive historical archives, and enhanced voting analytics.
+
+For detailed information about the bot's features, setup instructions, and source code, visit the [GitHub Repository](https://github.com/MDC91/Qubic-Proposal-Bot).
 
 ## 🚀 Innovative Approach
 - **Extended Historical Access**: Preserves Qubic governance history beyond current limits
